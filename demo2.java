@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ArithmeticOperations {
+public class demo2 {
     public static void main(String[] args) {
         // Create a Scanner object to take user input
         Scanner scanner = new Scanner(System.in);
