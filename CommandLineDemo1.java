@@ -1,4 +1,4 @@
-class CommandLineDemo {
+class CommandLineDemo1 {
     public static void main(String[] args) {
         // Check if arguments are provided
         if (args.length == 0) {
